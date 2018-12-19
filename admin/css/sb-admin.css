@@ -4,6 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+/* Dustin Styles */
+
+.warning-mess {
+    background-color: inherit;
+    color: #efefef;
+}
+
 /* Global Styles */
 
 body {

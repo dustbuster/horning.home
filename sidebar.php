@@ -15,26 +15,26 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <ul class="list-unstyled">
-                                <li><a href="#">Category Name</a>
+                                <li><a href="#">This is shortcut 1</a>
                                 </li>
-                                <li><a href="#">Category Name</a>
+                                <li><a href="#">This is shortcut 2</a>
                                 </li>
-                                <li><a href="#">Category Name</a>
+                                <li><a href="#">This is shortcut 3</a>
                                 </li>
-                                <li><a href="#">Category Name</a>
+                                <li><a href="#">This is shortcut 4</a>
                                 </li>
                             </ul>
                         </div>
                         <!-- /.col-lg-6 -->
                         <div class="col-lg-6">
                             <ul class="list-unstyled">
-                                <li><a href="#">Category Name</a>
+                                <li><a href="#">This is shortcut 5</a>
                                 </li>
-                                <li><a href="#">Category Name</a>
+                                <li><a href="#">This is shortcut 6</a>
                                 </li>
-                                <li><a href="#">Category Name</a>
+                                <li><a href="#">This is shortcut 7</a>
                                 </li>
-                                <li><a href="#">Category Name</a>
+                                <li><a href="#">This is shortcut 8</a>
                                 </li>
                             </ul>
                         </div>
@@ -42,7 +42,7 @@
                 </div>
                 <!-- Side Widget Well -->
                 <div class="well">
-                    <h4>Side Widget Well</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, perspiciatis adipisci accusamus laudantium odit aliquam repellat tempore quos aspernatur vero.</p>
+                    <h4>This is a widget template!</h4>
+                    <p>Somew words go here and maybe some other things too. But mostly words. I think those are probably cool, but i am not entirely sure.</p>
                 </div>
             </div>

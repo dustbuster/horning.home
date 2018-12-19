@@ -1,4 +1,4 @@
-<?php include("includes/header.php"); ?>
+<?php include("header.php"); ?>
     <div class="row">
         <div class="col-md-8">
             <?php 
@@ -6,6 +6,6 @@
             ?> 
         </div>
         <div class="col-md-4">
-            <?php include("includes/sidebar.php"); ?>
+            <?php include("sidebar.php"); ?>
         </div>
-        <?php include("includes/footer.php"); ?>
+        <?php include("footer.php"); ?>
